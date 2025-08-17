@@ -1,1 +1,1 @@
-# DSA
+# DSAA collection of Data Structures and Algorithms (DSA) problem-solving solutions in Java. This repository contains implementations of common DSA problems including arrays, strings, stacks, queues, linked lists, recursion, sorting, searching, and other algorithmic challenges. Ideal for students and developers preparing for coding interviews and competitive programming
